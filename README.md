@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">To run this bot, you will need Node.js and the following npm packages:<br><br>- discord.js (version 14.16.3)<br>- axios (version 1.7.7)<br><br>For compatibility, we recommend using Node.js version 20.11.1. These versions are current as of the publication date of this README.</h3>
+<h3 align="left">To run this bot, you will need Node.js and the following npm packages:<br><br>- discord.js (version 14.16.3)<br>- axios (version 1.7.7)<br><br>For compatibility, we recommend using Node.js version 20.11.1. These versions are current as of the publication date of this README.
 
 ###
 
@@ -50,4 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" alt="github logo"  />
 </div>
 
-###
+<h3>To initialize the npm enviornment (Do me first):</h3>
+
+```js
+npm init -y
+```
+
+<h3>To install the packages:</h3>
+
+```git 
+npm install discord.js axios
+```
+
